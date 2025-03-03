@@ -51,4 +51,4 @@ st.sidebar.info(
 
 # 👣 Footer
 st.markdown('---')
-st.caption('Developed with ❤️ by Jakku Kumarswami')
+st.caption('Developed with ❤️ by Gorli Laxmi')
